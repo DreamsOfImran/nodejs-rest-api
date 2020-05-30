@@ -7,13 +7,6 @@ const teachers = [
     gender: "Male"
   },
   {
-    id: 1,
-    name: "Imran Basha",
-    qualification: "BCA (Honors)",
-    age: 23,
-    gender: "Male"
-  },
-  {
     id: 2,
     name: "Abdul Azeez",
     qualification: "BPT",
